@@ -1,2 +1,2 @@
-# projects_figma
+# Figma Projects
 Proyectos Figma
